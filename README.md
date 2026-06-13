@@ -87,11 +87,6 @@ Most of what I build is private (it pays the bills 😄), but the philosophy is 
 ### 📊 GitHub, by the numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akash-mitra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-mitra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=akash-mitra&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
